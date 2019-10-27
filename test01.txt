@@ -1,0 +1,30 @@
+[*] Dumping the maze cells...
+Cell 0 has neighbor cells: 1 
+Cell 1 has neighbor cells: 0 2 
+Cell 2 has neighbor cells: 1 3 6 
+Cell 3 has neighbor cells: 2 7 
+Cell 4 has neighbor cells: 8 
+Cell 5 has neighbor cells: 6 9 
+Cell 6 has neighbor cells: 2 5 
+Cell 7 has neighbor cells: 3 11 
+Cell 8 has neighbor cells: 4 9 12 
+Cell 9 has neighbor cells: 5 8 
+Cell 10 has neighbor cells: 11 
+Cell 11 has neighbor cells: 7 10 
+Cell 12 has neighbor cells: 8 13 
+Cell 13 has neighbor cells: 12 14 
+Cell 14 has neighbor cells: 13 15 
+Cell 15 has neighbor cells: 14 
+[*] Start of call to solve()...
+[+] Solution found!
+0
+1
+2
+6
+5
+9
+8
+12
+13
+14
+15
